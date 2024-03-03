@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactSlick/static/css/main.b2052205.css",
+    "main.js": "/reactSlick/static/js/main.aaaae703.js",
+    "static/js/453.d83eb696.chunk.js": "/reactSlick/static/js/453.d83eb696.chunk.js",
+    "static/media/image1.jpg": "/reactSlick/static/media/image1.e765cc199c31faef2a39.jpg",
+    "static/media/image2.jpg": "/reactSlick/static/media/image2.81906edb6f9d5b849afd.jpg",
+    "static/media/image3.jpg": "/reactSlick/static/media/image3.23c2e8da85bde1f1507c.jpg",
+    "static/media/slick.svg": "/reactSlick/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reactSlick/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/reactSlick/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reactSlick/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/reactSlick/index.html",
+    "main.b2052205.css.map": "/reactSlick/static/css/main.b2052205.css.map",
+    "main.aaaae703.js.map": "/reactSlick/static/js/main.aaaae703.js.map",
+    "453.d83eb696.chunk.js.map": "/reactSlick/static/js/453.d83eb696.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2052205.css",
+    "static/js/main.aaaae703.js"
+  ]
+}
